@@ -157,10 +157,6 @@ const config: Config = {
             ],
           },
           {
-            label: 'Boisko',
-            to: 'docs/boisko',
-          },
-          {
             label: 'Zamówienia publiczne',
             to: 'docs/zamowienia-publiczne',
             items: [
